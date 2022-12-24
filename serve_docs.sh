@@ -1,0 +1,1 @@
+/c/Users/Denver/AppData/Local/pypoetry/Cache/virtualenvs/pandas-analysis-pSGX_PKJ-py3.10/Scripts/python.exe -m mkdocs serve
